@@ -7,7 +7,7 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 	<bean id="myCoach"
-	 class="com.luv2code.springdemo.TrackCoach"></bean>
+	 class="com.luv2code.springdemo.BaseballCoach"></bean>
     
     
     <!-- Define your beans here -->
